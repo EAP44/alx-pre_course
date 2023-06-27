@@ -1,1 +1,1 @@
-My first readme
+mad as mode
